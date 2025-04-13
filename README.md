@@ -1,9 +1,6 @@
 # BOOKSTORE-DATABASE-GROUP-WORK
 # BookStore Database Project
 
-**`README.md`**  
-  This file. It explains the database design, its structure, and how to set it up and test it.
-
 
 ## Overview
 
@@ -17,6 +14,12 @@ This project was developed as part of our coursework for *Database Design & Prog
 **Sylvia Kathoni** (thrusherkeys@gmail.com)
 **Micah Katumi** (micahkatumi@gmail.com)
 
+
+ **`README.md`**  
+  This file explains the database design, its structure, and how to set it up and test it.
+
+## project documentation: 
+ [View on Google Docs] (https://drive.google.com/file/d/1MvDATXZMctqD--02hoWaFSakGKhQufIm/view?usp=sharing)
 
 ## Project Contents
 
