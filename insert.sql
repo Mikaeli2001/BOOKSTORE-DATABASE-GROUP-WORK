@@ -1,6 +1,6 @@
 
--- Insert into language
-INSERT INTO language (name) VALUES 
+-- Insert into book_language
+INSERT INTO book_language (name) VALUES 
 ('English'), 
 ('French'), 
 ('Swahili');
